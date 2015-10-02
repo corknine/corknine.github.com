@@ -23,6 +23,11 @@ How do I add a video to the top section
 To add a video to the top section, just upload the video to Vimeo, then add it in the Home Page section of the Pipeline settings.
 
 
+How do I add a video to the top section
+---
+If a product description is over 1000 characters or if the description contains an embedded video the format will switch to long form, and the description will show underneath the product details and product photo slider.
+
+
 
 Integrations
 ===========
