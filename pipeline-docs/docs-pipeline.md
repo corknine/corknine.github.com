@@ -66,3 +66,9 @@ Like the other integrations, the Pipeline theme will detect when SKy Pilot is in
 [Install Sky Pilot >](https://apps.shopify.com/sky-pilot)
 
 
+Releases
+===========
+ 
+#### Version 1.0.1
+- Fixed footer logo alignment
+- Fixed jagged scrolling on homepage
