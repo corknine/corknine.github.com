@@ -4,11 +4,11 @@ FAQ
 
 How do I create a MegaNav
 ---
-The meganav will be created automatically if you have a dropdown menu that is nested more than two layers deep. TO nest menus, simply name a linklist with the same name you give to the link that should contain the dropdown.  Refer to this Shopify article for more thorough instructions: [https://docs.shopify.com/manual/your-website/navigation/create-drop-down-menu](https://docs.shopify.com/manual/your-website/navigation/create-drop-down-menu)
+The meganav will be created automatically if you have a dropdown menu that is nested more than two layers deep. To nest menus, simply name a linklist with the same name you give to the link that should contain the dropdown.  Refer to this Shopify article for more thorough instructions: [https://docs.shopify.com/manual/your-website/navigation/create-drop-down-menu](https://docs.shopify.com/manual/your-website/navigation/create-drop-down-menu)
 
 Why does my navigation switch to mobile
 ---
-The pipeline navigation will switch to mobile when the links touch the logo.  If you have search enabled in the header, the expanded search field will be subtracted from the available menu space. To prevent your menu from switching on large screens you can nest menu items into a dropdown, disable search in the header, or move navigation items into the footer.
+The pipeline navigation will switch to mobile when the links touch the logo.  If you have search enabled in the header, the expanded search field will be subtracted from the available menu space. To prevent your menu from switching on large screens you can nest menu items into a dropdown, use a smaller logo, or move navigation items into the footer.
 
 What size images should I use for products
 ---
@@ -61,7 +61,7 @@ To install Charge Rabbit for membership product, just add the app to your store.
 Sky Pilot
 -----------------
 
-Like the other integrations, the Pipeline theme will detect when SKy Pilot is installed and install the necessary snippets to your site. There is no need to use a special product template for Sky Pilot.
+Like the other integrations, the Pipeline theme will detect when Sky Pilot is installed and install the necessary snippets to your site. There is no need to use a special product template for Sky Pilot.
 
 [Install Sky Pilot >](https://apps.shopify.com/sky-pilot)
 
