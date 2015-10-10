@@ -72,3 +72,7 @@ Releases
 #### Version 1.0.1
 - Fixed footer logo alignment
 - Fixed jagged scrolling on homepage
+
+#### Version 1.0.2
+- Fixed broken links caused by homepage custom section
+- Better vertical spacing for non-white background colors
