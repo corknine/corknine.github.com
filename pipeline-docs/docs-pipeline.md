@@ -76,3 +76,21 @@ Releases
 #### Version 1.0.2
 - Fixed broken links caused by homepage custom section
 - Better vertical spacing for non-white background colors
+
+#### Version 1.1
+- product home page settings mention four product limit that no longer exists
+- hero was locked in full screen - fixed
+- Responsive Imges in RTE
+- remove columns from homepage
+- Support article.image
+- Support new Shopify standard theme settings
+- Support Apple Wallet gift cards
+- Upgraded theme settings for clarity
+- Homepage 2 recent blog posts
+- Homepage up to six logos of prominent customers/news media/partners/vendors
+- Homepage titles for each section
+- Homepage section background colors
+- Homepage cleaner design for page - split into columns
+- Javascript performance improvements
+- Constrain wide logos on mobile devices
+- Aligned: collection text, product social icons, pagination, footer social links
