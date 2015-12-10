@@ -28,6 +28,17 @@ How do I create a long scrolling product description
 If a product description is over 1000 characters or if the description contains an embedded video the format will switch to long form, and the description will show underneath the product details and product photo slider.
 
 
+How do I Update the theme
+---
+(Simple) Follow the shopify process I linked
+ 
+(Medium) Install the new theme, copy your settings_data.json into the new theme and re-upload images 
+
+(Complex & Fast) Use the theme gem workflow, duplicate your existing theme in shopify, paste that theme ID into the theme gem config file, theme replace, watch the gem update the theme without changing the settings.  You can couple this with a git workflow to update customized themes quickly and easily.  Here’s a description of that process: https://robots.thoughtbot.com/shopify-theme-development
+
+I use that third method, it’s the “power user” way to work with themes.  I’ll also include a demo theme gem file for pipeline if you want to go that route. 
+
+
 
 Integrations
 ===========
@@ -94,3 +105,7 @@ Releases
 - Javascript performance improvements
 - Constrain wide logos on mobile devices
 - Aligned: collection text, product social icons, pagination, footer social links
+
+#### Version 1.2
+- Theme settings updated to match Shopify best practices
+- Headings use separate font from body font
