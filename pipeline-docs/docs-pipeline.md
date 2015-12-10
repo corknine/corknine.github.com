@@ -37,7 +37,7 @@ Instagram
 -----------------
 
 #### Finding your User ID
-To pull in an instagram feed on the bottom of your homepage, you will need to include your Instagram user ID number, not your user name.  This is beacause the Instagram API will not accept user names, just the ID number.  To lokup your Instagram User ID, just go to this site and type in your user name:  [http://jelled.com/instagram/lookup-user-id](http://jelled.com/instagram/lookup-user-id)
+To pull in an instagram feed on the bottom of your homepage, you will need to include your Instagram user ID number, not your user name.  This is beacause the Instagram API will not accept user names, just the ID number.  To lookup your Instagram User ID, just go to this site and type in your user name:  [http://jelled.com/instagram/lookup-user-id](http://jelled.com/instagram/lookup-user-id)
 
 
 Shopify Product Reviews
