@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width">
+
+  <title>Pipeline Theme Documentation</title>
+
+  <!-- Flatdoc -->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script src='/pipeline-docs/vendor/legacy.js'></script>
+  <script src='/pipeline-docs/vendor/flatdoc.js'></script>
+
+  <!-- Flatdoc theme -->
+  <link  href='/pipeline-docs/vendor/theme-white/style.css' rel='stylesheet'>
+  <script src='/pipeline-docs/vendor/theme-white/script.js'></script>
+  <link  href='/pipeline-docs/pipeline.css' rel='stylesheet'>
+
+  <!-- Meta -->
+  <meta content="Pipeline Theme - Instagram Token" property="og:title">
+  <meta content="Generate an instagram token for the Pipeline theme." name="description">
+
+  <!-- Initializer -->
+  <script>
+    Flatdoc.run({
+      fetcher: Flatdoc.file('/pipeline-docs/instagram/privacy.md')
+    });
+  </script>
+</head>
+<body role='flatdoc' class='large-brief pipeline no-literate'>
+
+  <div class='header'>
+    <div class='left'>
+      <h1><a href="/pipeline-docs">Pipeline Documentation</a></h1>
+      <ul>
+        <li><a href='/pipeline-docs/instagram'>Instagram Token</a></li>
+        <li><a href='https://pipeline-theme.myshopify.com/'>Pipeline Demo</a></li>
+        <li><a href='https://play-theme.myshopify.com/'>Play Demo</a></li>
+        <li><a href='mailto:gideon@corknine.com'>Contact</a></li>
+        <li><a href='/pipeline-docs/privacy'>Privacy Policy</a></li>
+      </ul>
+    </div>
+    <div class='right'>
+    </div>
+  </div>
+
+  <div class='content-root'>
+    <div class='menubar'>
+      <div class='menu section' role='flatdoc-menu'></div>
+    </div>
+    <div role='flatdoc-content' class='content'></div>
+  </div>
+
+</body>
+</html>
