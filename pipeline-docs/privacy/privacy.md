@@ -2,10 +2,7 @@ Privacy Policy
 ================
 
 
-### PRIVACY STATEMENT
-
-
-##### SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
+### SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
 When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
 
@@ -14,7 +11,7 @@ When you browse our store, we also automatically receive your computer’s inter
 Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
 
-##### SECTION 2 - CONSENT
+### SECTION 2 - CONSENT
 
 How do you get my consent?
 
@@ -28,12 +25,12 @@ How do I withdraw my consent?
 If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at themes@corknine.com or mailing us at: Corknine Themes 2001 Squaw Valley Cres, Whistler, BC, V0N1B2, Canada
 
 
-##### SECTION 3 - DISCLOSURE
+### SECTION 3 - DISCLOSURE
 
 We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
 
-##### SECTION 4 - SHOPIFY
+### SECTION 4 - SHOPIFY
 
 Our theme is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
 
@@ -51,7 +48,7 @@ PCI-DSS requirements help ensure the secure handling of credit card information 
 For more insight, you may also want to read Shopify’s Terms of Service here or Privacy Statement here.
 
 
-##### SECTION 5 - THIRD-PARTY SERVICES
+### SECTION 5 - THIRD-PARTY SERVICES
 
 
 In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
@@ -72,14 +69,14 @@ Links
 When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
 
-##### SECTION 6 - SECURITY
+### SECTION 6 - SECURITY
 
 To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
 If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption.  Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
 
-##### COOKIES
+### COOKIES
 
 Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.
 
@@ -97,19 +94,19 @@ storefront_digest, unique token, indefinite If the shop has a password, this is 
 
 
 
-##### SECTION 7 - AGE OF CONSENT
+### SECTION 7 - AGE OF CONSENT
 
 By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
 
-##### SECTION 8 - CHANGES TO THIS PRIVACY POLICY
+### SECTION 8 - CHANGES TO THIS PRIVACY POLICY
 
 We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
 
 If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
 
-##### QUESTIONS AND CONTACT INFORMATION
+### QUESTIONS AND CONTACT INFORMATION
 
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at themes@corknine.com or by mail at Corknine Themes
 
