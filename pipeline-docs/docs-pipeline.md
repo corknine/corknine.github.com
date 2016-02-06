@@ -92,3 +92,12 @@ Releases
 #### Version 1.2
 - Theme settings updated to match Shopify best practices
 - Headings use separate font from body font
+
+#### Version 1.3
+This update removes Instagram integration due to API policy changes, and releases small bug fixes.
+ - Remove instagram integration
+ - Load js if fastclick fails
+ - Remove english word - more
+ - Fix iOS safari scroll on initial page load issue by updating typekit
+ - Add default centering on list template
+ - Fix link element closing order for theme credit list item
