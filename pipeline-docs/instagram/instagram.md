@@ -3,7 +3,7 @@ Instagram Token Generator
 
 
 <div class="generate-token">
-  <p><a class="button" href="https://instagram.com/oauth/authorize/?client_id=c4d02e0d5f3d47168a966b69d93317de&amp;redirect_uri=http://corknine.com/pipeline-docs/instagram/&amp;response_type=token">Generate Access Token</a></p>
+  <p><a class="button" href="https://instagram.com/oauth/authorize/?client_id=b534787097a54217913909ac90289efd&amp;redirect_uri=http://corknine.com/pipeline-docs/instagram/&amp;response_type=token">Generate Access Token</a></p>
 </div>
 
 <div class="token-received" style="display:none">
