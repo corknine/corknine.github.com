@@ -27,7 +27,25 @@
       fetcher: Flatdoc.file('/pipeline-docs/instagram/instagram.md')
     });
   </script>
+  <script>
+    $(document).ready(function(){
+      var token = window.location.hash.split("#access_token=")[1];
+
+      if (typeof token != "undefined") {
+        if (token.length ){
+          $('.generate-token').hide();
+          $('.token-received').show();
+        }
+      }
+
+      $("input.token").val(token).on("click", function() {
+        $(this).select();
+      });
+    });
+  </script>
+
 </head>
+
 <body role='flatdoc' class='large-brief pipeline no-literate'>
 
   <div class='header'>
@@ -50,7 +68,21 @@
       <div class='menu section' role='flatdoc-menu'></div>
     </div>
     <div role='flatdoc-content' class='content'></div>
+
+    <div class='content'>
+      <div class="generate-token">
+        <p><a class="button" href="https://instagram.com/oauth/authorize/?client_id=b534787097a54217913909ac90289efd&amp;redirect_uri=http://localhost:8000/pipeline-docs/instagram/&amp;response_type=token">Generate Access Token</a></p>
+      </div>
+
+      <div class="token-received" style="display:none">
+        <p>Here's your <strong>Access Token</strong>:</p>
+        <p><input class="token" type="text" value="" /></p>
+      </div>
+    </div>
+
   </div>
 
 </body>
 </html>
+
+
