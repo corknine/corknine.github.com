@@ -102,3 +102,6 @@ This update removes Instagram integration due to API policy changes, and release
 - Fix iOS safari scroll on initial page load issue by updating typekit
 - Add default centering on list template
 - Fix link element closing order for theme credit list item
+
+#### Version 1.4
+- Replace Instagram integration with new token settings
