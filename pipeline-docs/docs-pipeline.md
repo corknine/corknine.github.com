@@ -6,7 +6,7 @@ Pipeline Theme
 
 Releases
 ===========
- 
+
 #### Version 1.0.1
 - Fixed footer logo alignment
 - Fixed jagged scrolling on homepage
@@ -49,3 +49,21 @@ This update removes Instagram integration due to API policy changes, and release
 
 #### Version 1.4
 - Replace Instagram integration with new token settings
+
+#### Version 1.5
+- Add banner controls for image width and height
+- Add parallax option to banner and video section
+- Square crop insatgram photos
+- Add Instagram controls for photo count
+- Add Blog controls for number of posts
+- Move video into its own section with identical functionality to banner and youtube support
+- New arrow style and animation on Banner
+- Add section for optional second page of page content on home page
+- Add option to not open the cart modal when a uses adds an item to the cart
+- Add product thumbnail photos
+- Remove 1px line from below last item on mobile dropdown
+- Update icons to include amazon payments
+- Allow collection sidebar tags to be removed one by one instead of all at once
+- Remove legacy checkout.css file
+- Fix issue where featured product would not show on home page if theme settings did not have a featured page
+- Fix meganav subheading links on iPad
