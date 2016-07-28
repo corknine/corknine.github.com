@@ -67,3 +67,11 @@ This update removes Instagram integration due to API policy changes, and release
 - Remove legacy checkout.css file
 - Fix issue where featured product would not show on home page if theme settings did not have a featured page
 - Fix meganav subheading links on iPad
+
+#### Version 1.6
+- Update Instagram, Google and payment icons
+- More reliable variant-image matching for edge cases
+- Simplify cart link setttings
+- Minor SEO tweaks for Panda and Rankbrain
+- Alow standard nav on collections template
+- Simplify collections list page and footer colors
