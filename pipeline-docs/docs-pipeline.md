@@ -75,3 +75,7 @@ This update removes Instagram integration due to API policy changes, and release
 - Minor SEO tweaks for Panda and Rankbrain
 - Alow standard nav on collections template
 - Simplify collections list page and footer colors
+
+#### Version 1.7
+- Apple Pay support
+- Prevent related videos from showing on YouTube videos loaded from Homepage video section
