@@ -1,6 +1,8 @@
 Pipeline Theme
 ================
 
+The Pipeline documentation has moved to a new format - the new and improved docs are here:
+
 <a class="button" href="https://themes.readme.io/">Go to documentation</a>
 
 
