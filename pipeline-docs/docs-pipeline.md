@@ -1,7 +1,7 @@
 Pipeline Theme
 ================
 
-<a class="button" href="https://themes.readme.io/">Documentation</a>
+<a class="button" href="https://themes.readme.io/">Go to documentation</a>
 
 
 Releases
@@ -79,3 +79,19 @@ This update removes Instagram integration due to API policy changes, and release
 #### Version 1.7
 - Apple Pay support
 - Prevent related videos from showing on YouTube videos loaded from Homepage video section
+
+#### Version 2.0
+- Add support for the new theme editor
+- Convert home page to modular sections
+- Change variant code to new system without option_select.js
+
+#### Version 2.1 / 2.2
+- Fix bug in new variant system affecting stores with multiple variant dropdowns where the first variant was added to the cart instead of the selected variant
+
+#### Version 2.3
+- Include a home page slideshow
+- Include zoom on the product page
+- Change form selector to basic class selector — allowing language params to be passed into checkout
+- Update icons to contain left right slideshow arrows (so slideshow arrows can inherit color from the text)
+- Center products in collections containing less that one full row of products
+- Add title to the rich text block — allowing it to visually match the other sections
