@@ -87,10 +87,11 @@ This update removes Instagram integration due to API policy changes, and release
 - Convert home page to modular sections
 - Change variant code to new system without option_select.js
 
-#### Version 2.1 / 2.2
+#### Version 2.1
 - Fix bug in new variant system affecting stores with multiple variant dropdowns where the first variant was added to the cart instead of the selected variant
 
-#### Version 2.3
+#### Version 2.2
+- Additional variant fixes
 - Include a home page slideshow
 - Include zoom on the product page
 - Change form selector to basic class selector — allowing language params to be passed into checkout
