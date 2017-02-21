@@ -98,3 +98,18 @@ This update removes Instagram integration due to API policy changes, and release
 - Update icons to contain left right slideshow arrows (so slideshow arrows can inherit color from the text)
 - Center products in collections containing less that one full row of products
 - Add title to the rich text block — allowing it to visually match the other sections
+
+
+#### Version V2.3
+- Add a collection grid section for home page
+- Add view all button to the featured collection section on home page
+- Improve schema tags on product and article
+- Remove outdated image size recommendations
+- Indicate sold out items in single variant dropdown
+- Unify aesthetic and animations of featured news section with the new collection grid section
+- Fix z-index on article featured images for mobile
+- Fire variant JS on pageload for more consistent sold-out edge case handling
+- Fix color name typo in dropdown icon SVG
+- Remove return false in Pipeline.smoothScroll JS to allow additional events on anchor tag clicks
+- Show digital orders in account and hide quantity on membership products
+- Add wrapper to collection template text without image for better mobile text display
