@@ -90,7 +90,7 @@ This update removes Instagram integration due to API policy changes, and release
 #### Version 2.1
 - Fix bug in new variant system affecting stores with multiple variant dropdowns where the first variant was added to the cart instead of the selected variant
 
-#### Version 2.2
+#### Version 2.2 (December 15 2016)
 - Additional variant fixes
 - Include a home page slideshow
 - Include zoom on the product page
@@ -100,7 +100,7 @@ This update removes Instagram integration due to API policy changes, and release
 - Add title to the rich text block — allowing it to visually match the other sections
 
 
-#### Version V2.3
+#### Version V2.3  (February 24 2017)
 - Add a collection grid section for home page
 - Add view all button to the featured collection section on home page
 - Improve schema tags on product and article
@@ -113,3 +113,15 @@ This update removes Instagram integration due to API policy changes, and release
 - Remove return false in Pipeline.smoothScroll JS to allow additional events on anchor tag clicks
 - Show digital orders in account and hide quantity on membership products
 - Add wrapper to collection template text without image for better mobile text display
+
+#### Version V2.4 (April 17 2017)
+- Escape all text settings
+- Add block.shopify attributes to blocks missing them
+- Add product video functionality via image alt text
+- Allow product description split with `[split]`
+- Add side-by-side section (image and text)
+- Add logo section
+- Add columns section
+- Add filter toggle to collection mobile view
+- Better alignment on first dropdown in the main menu
+- Top bar mobile improvements
