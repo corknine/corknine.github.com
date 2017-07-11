@@ -125,3 +125,11 @@ This update removes Instagram integration due to API policy changes, and release
 - Add filter toggle to collection mobile view
 - Better alignment on first dropdown in the main menu
 - Top bar mobile improvements
+
+#### Version V2.4.1 (July 11 2017)
+- Add Shopify Pay logo
+- Fix name conflict on matchHeight function
+- Add vertical padding between columns on mobile version of columns section
+- Decrease banner button size on mobile
+- Hide slides while slideshow is loading
+- Remove outline on hero scroll arrow
