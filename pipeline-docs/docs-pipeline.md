@@ -3,7 +3,7 @@ Pipeline Theme
 
 The Pipeline documentation has moved to a new format - the new and improved docs are here:
 
-<a class="button" href="https://themes.readme.io/">Go to documentation</a>
+<a class="button" href="http://help.groupthought.com/">Go to documentation</a>
 
 
 Releases
@@ -133,3 +133,16 @@ This update removes Instagram integration due to API policy changes, and release
 - Decrease banner button size on mobile
 - Hide slides while slideshow is loading
 - Remove outline on hero scroll arrow
+
+#### Version V3.0 (August 2 2017)
+- Corknine Themes is now Groupthought
+- Change numeric dropdowns to sliders
+- Product section now has blocks for configuring tabs
+- Default home page has a better demonstration of the available sections
+- Mobile chrome experience is updated to prevent jagged scroll while chrome hides the URL bar
+- Product page now has the option to add a sizing chart popup
+- Collection template now has the option to add sale, new and sold out stickers to the grid of images
+- The general social settings now has an option to add a default sharing image for the homepage
+- Update the product variant dropdown to use the new has_only_defaults variable instead of the "default" string check
+- Always show the image above the text on mobile version of "Image and text" section, regardless of their order in the desktop view
+- Allow the product image zoom to show an image that takes the full width of the page
