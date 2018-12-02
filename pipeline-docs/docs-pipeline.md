@@ -10,4 +10,4 @@ Corknine themes has rebranded as Groupthought - the new and improved docs are he
 Releases
 ===========
 
-<a class="button" href="http://help.groupthought.com/">Theme release history</a>
+<a class="button" href="https://groupthought.com/pages/pipeline-releases">Theme release history</a>
